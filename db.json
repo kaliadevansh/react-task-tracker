@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Double click on me",
+      "day": "Now",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Like the project?",
+      "day": "Forever",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Email me the job description?",
+      "day": "ASAP",
+      "reminder": false
+    }
+  ],
+  "contact": {
+    "name": "Devansh"
+  }
+}
